@@ -85,7 +85,7 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/xf-zhao"
+          url: "https://github.com/informatikumtalk/informatikumtalk.github.io"
         - name: Rss
           url: "index.xml"
 
