@@ -21,3 +21,13 @@
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" -}}
 {{- end -}}
+
+{{ if .Params.schedule}}
+{{ if .Params.pass}}
+&nbsp;
+<p style="display: inline;"> <s>Schedule: {{.Params.schedule}} </s></p>
+{{else}}
+&nbsp;
+<p style="display: inline;color: red;"> Schedule: {{.Params.schedule}} </p>
+{{end}}
+{{end}}

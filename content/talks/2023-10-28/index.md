@@ -1,7 +1,6 @@
 ---
 title: "[001] DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics"
-date: 2023-10-28
-weight: 1
+weight: -1
 readingtime: 60
 # aliases: ["/first"]
 tags: ["paper share", "robotics", "manipulation"]
@@ -24,6 +23,8 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+schedule: 2023-10-29 17:00-18:00
+pass: true
 cover:
     image: "talks/2023-10-28/featured.jpg" # image path/url
     alt: "001 Talk" # alt text

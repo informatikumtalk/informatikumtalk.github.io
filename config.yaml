@@ -82,6 +82,9 @@ params:
             Welcome to InformatikumTalk!
 
             Engage and share your thoughts with others.
+        Zoom: https://uni-hamburg.zoom.us/j/65464960709?pwd=VGRGZW4vQkg5U2U1RkdQaFk5Tm5MUT09
+        Link: "/talks/how-to-contribute/"
+        Info: ""
 
     socialIcons:
         - name: github

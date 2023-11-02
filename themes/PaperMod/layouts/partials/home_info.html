@@ -8,6 +8,17 @@
         <p id="simpleUsage">
         {{ .Content | markdownify }}
         </p>
+    </br>
+
+        {{ if .Link }}
+            <li><a href="{{ .Link }}">Join us / Tutorial / Links</a></li>
+        {{ end }}
+
+        {{ if .Info }}
+            <li> {{ .Info | markdownify }} </li>
+        {{ end }}
+
+
     </div>
     <footer class="entry-footer">
         {{ partial "social_icons.html" site.Params.socialIcons }}
