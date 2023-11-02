@@ -2,6 +2,7 @@
 title: "[002] Multi-modal Sequential Learning for Peg in Multi Hole Assembly"
 weight: -2
 readingtime: 60
+date: 2023-11-02
 # aliases: ["/first"]
 tags: ["paper share", "robotics", "manipulation"]
 author: "刘鑫宇"

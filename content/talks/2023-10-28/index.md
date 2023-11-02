@@ -1,5 +1,6 @@
 ---
 title: "[001] DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics"
+date: 2023-10-28
 weight: -1
 readingtime: 60
 # aliases: ["/first"]

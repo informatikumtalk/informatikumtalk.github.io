@@ -3,6 +3,7 @@ title: "[000] How to Contribute?"
 weight: 0
 readingtime: 60
 # aliases: ["/first"]
+date: 2023-11-02
 tags: ["tutorial", "doc"]
 author: "赵绪锋"
 showToc: true
