@@ -25,6 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 schedule:  2023-11-05 17:00-18:00
+pass: true
 cover:
     image: "" # image path/url
     alt: "002 Talk" # alt text
